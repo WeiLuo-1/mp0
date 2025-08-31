@@ -1,1 +1,14 @@
 /* Your CSS here. */
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.colored-box {
+  background-color: rgb(139, 229, 131);
+  width: 1000px;
+  height: 600px;
+  margin: 50px auto;
+  text-align: center;
+  padding:20px;
+}
