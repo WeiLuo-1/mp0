@@ -1,14 +1,16 @@
 /* Your CSS here. */
 img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
 }
 
 .colored-box {
-  background-color: rgb(139, 229, 131);
-  width: 1000px;
+  background-color: rgb(222, 222, 243);
+  width: 800px;
   height: 600px;
   margin: 50px auto;
   text-align: center;
   padding:20px;
+  border-radius: 10px;
 }
